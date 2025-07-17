@@ -15,7 +15,7 @@
 ## 🎖️My Trophies :
 <p align="left">
   <a href="https://github.com/Abdelrahman1Ibrahim/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EHAB3x&theme=onedark" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdelrahman1Ibrahim&theme=onedark" alt="trophy">
   </a>
 </p>
 
