@@ -1,21 +1,71 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Ibrahim Maarouf</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h2 align="left">Hi 👋! My name is Abdelrahman Ibrahim and I'm a frontend developer from Egypt</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman1ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman1ibrahim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman1ibrahim" alt="abdelrahman1ibrahim" /></a> </p>
-
-- 📫 How to reach me **amarouf@std.mans.edu.eg**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-ma3rouf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-maarouf-1a00b530a/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Abdelrahman_Ma3rouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abdelrahman_ma3rouf" height="30" width="40" /></a>
+## 📈My Stats.
+<p align="center">
+  <a href="https://github.com/Abdelrahman1Ibrahim">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Abdelrahman1Ibrahim&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@EHAB3x's GitHub stats"/>
+  </a>
+  <a href="https://github.com/Abdelrahman1Ibrahim?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrahman1Ibrahim&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@EHAB3x's GitHub streak"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman1ibrahim&show_icons=true&locale=en" alt="abdelrahman1ibrahim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman1ibrahim&" alt="abdelrahman1ibrahim" /></p>
+## 🎖️My Trophies :
+<p align="left">
+  <a href="https://github.com/Abdelrahman1Ibrahim/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EHAB3x&theme=onedark" alt="trophy">
+  </a>
+</p>
+
+## 🖌️Frontend :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="margin: 1rem; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin: 10px; width: 40px; height: 40px;"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" style="margin: 10px; width: 40px; height: 40px;"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 10px; width: 40px; height: 40px;"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin: 10px; width: 40px; height: 40px;"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+
+</div>
+
+## 🌐React Libraries :
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactrouter/reactrouter-original.svg" height="30" alt="react-router logo" style="margin: 10px; width: 40px; height: 40px;"/>
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactbootstrap/reactbootstrap-original.svg" height="30" alt="react-bootstrap logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/axios/axios-plain.svg" height="30" alt="axios logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
+
+## 💻Languages & Tools :
+<div align="left">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" style="margin: 10px; width: 40px; height: 40px;"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="vs logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" height="30" alt="figma logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
+
+## 🤵Connect with Me :
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-ma3rouf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/abdo_Mar3ouf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Abdelrahman1Ibrahim/Abdelrahman1Ibrahim/output/snake.svg" alt="Snake animation" />
+</div>
