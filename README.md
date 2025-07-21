@@ -3,10 +3,10 @@
 ## 📈My Stats.
 <p align="center">
   <a href="https://github.com/Abdelrahman1Ibrahim">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Abdelrahman1Ibrahim&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@EHAB3x's GitHub stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Abdelrahman1Ibrahim&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Abdelrahman1Ibrahim's GitHub stats"/>
   </a>
   <a href="https://github.com/Abdelrahman1Ibrahim?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrahman1Ibrahim&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@EHAB3x's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdelrahman1Ibrahim&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Abdelrahman1Ibrahim's GitHub streak"/>
   </a>
 </p>
 
