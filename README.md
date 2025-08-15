@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" style="margin: 10px; width: 40px; height: 40px;"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 10px; width: 40px; height: 40px;"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="margin: 10px; width: 40px; height: 40px;"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin: 10px; width: 40px; height: 40px;"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" style="margin: 10px; width: 40px; height: 40px;"/> -->
